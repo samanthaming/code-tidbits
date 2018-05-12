@@ -1,0 +1,45 @@
+# Code Tidbits
+
+Hello and Welcome 👋
+
+Hope you've been enjoying the code tidbits I've been posting on social media! Here you will find the actual code, description, and any resources that I used to create them.
+
+## 🔥 Follow me on social media 
+
+> I share JS, HTML, CSS tidbits every week on Twitter and Instagram.
+
+Twitter: [@samantha_ming](https://twitter.com/samantha_ming)  
+Instagram: [@samanthaming](https://www.instagram.com/SamanthaMing/)
+
+## 💖 Download & Share 
+
+Absolutely! You are more than welcome to download and share my code tibits. If you've gotten any value from my content and would like to help me reach more people, I'd really appreciate it if you could attribute my Twitter (@samantha_ming) and Instagram (@samanthaming) handle with your share! 
+
+## My Posts
+
+|   |      |
+|---|:-----|
+| 15 | [4 Ways to Combine String](14-4-ways-to-combine-strings.md) 🆕 |
+| 14 | [Combine Multiple Arrays Using Spread](14-combine-multiple-arrays-using-spread.md) |
+| 13 | [Skip Values In Destructuring](13-skip-values-in-destructuring.md) |
+| 12 | [Split String Using ES6 Spread](12-split-string-using-spread.md) |
+| 11 | [Setting Default Parameters](11-setting-default-parameters.md) |
+| 10 | [Remove Array Duplicates Using ES6 Set](10-remove-array-duplicates-using-set.md) |
+| 9 | [Trick to Adding String and Number](9-trick-to-add-string-and-number.md) |
+| 8 | [Swapping Variables With Destructuring](8-swap-variables-with-destructuring.md) |
+| 7 | [ES6 Way of Creating Object with Dynamic Keys](7-create-object-with-dynamic-keys) |
+| 6 | [Custom CSS Selection Styling](6-custom-css-selection-styling.md) |
+| 5 | [ES6 Shorthand to Define Methods in Objects](5-concise-method-syntax.md) |
+| 4 | [Declaring CSS Variables](4-declaring-css-variables.md) |
+| 3 | [When NOT to use Arrow Functions](3-when-not-to-use-arrow-functions.md) |
+| 2 | [Use console.table to display your data](2-console-table.md) |
+| 1 | [Convert Array-like to True Array](1-convert-to-true-array.md) |
+
+
+## 🌟 Contribution
+
+Yes! Anyone is welcome to contribute to the quality of this content. Please feel free to submit a PR request for typo fixes, spelling corrections, explanation improvements, etc.
+
+## 👩🏻‍⚖️ Legal Note 
+
+I will be using the content of this repo for my upcoming podcast and maybe other publications. So, if you do contribute content, please be aware that you agree that you're giving me a non-exclusive license to use this content as I deem appropriate. After doing a podcast episode on law and legal matters, I thought it's important that I mention this. Thanks for understanding!
