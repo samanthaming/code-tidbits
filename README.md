@@ -17,8 +17,8 @@ Absolutely! You are more than welcome to download and share my code tibits. If y
 
 ## My Posts
 
-|   |   &nbsp;   |
-|---|:-----------|
+|   |      |
+|---|:-----|
 | 15 | [4 Ways to Combine String](posts/15-4-ways-to-combine-strings.md) 🆕 |
 | 14 | [Combine Multiple Arrays Using Spread](posts/14-combine-multiple-arrays-using-spread.md) |
 | 13 | [Skip Values In Destructuring](posts/13-skip-values-in-destructuring.md) |

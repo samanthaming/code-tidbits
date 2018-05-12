@@ -20,7 +20,7 @@ console.log(+string + number) // 105
 
 ## Like this Post
 
-**[Like this on Twitter]https://twitter.com/samantha_ming/status/980157046698909696)**
+**[Like this on Twitter](https://twitter.com/samantha_ming/status/980157046698909696)**
 
 **[Like this on Instagram](https://www.instagram.com/p/Bg_54HGAT-f/?taken-by=samanthaming)**
 
