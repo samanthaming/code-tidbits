@@ -21,9 +21,9 @@ function coffeeOrTea2(drink = '🍵') {
 
 ## Like this Post
 
-**[Twitter](https://twitter.com/samantha_ming/status/985230884969185281)**
+**[Like this on Twitter]https://twitter.com/samantha_ming/status/985230884969185281)**
 
-**[Instagram](https://www.instagram.com/p/Bhj9ITfhlNT/?taken-by=samanthaming)**
+**[Like this on Instagram](https://www.instagram.com/p/Bhj9ITfhlNT/?taken-by=samanthaming)**
 
 
 ## Resources

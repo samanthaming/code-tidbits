@@ -24,9 +24,9 @@ p::-moz-selection {
 
 ## Like this Post
 
-**[Twitter](https://twitter.com/samantha_ming/status/972566700418727936)**
+**[Like this on Twitter]https://twitter.com/samantha_ming/status/972566700418727936)**
 
-**[Instagram](https://www.instagram.com/p/BgJ8DMNH9QW/?taken-by=samanthaming)**
+**[Like this on Instagram](https://www.instagram.com/p/BgJ8DMNH9QW/?taken-by=samanthaming)**
 
 
 ## Resources

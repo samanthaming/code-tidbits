@@ -16,9 +16,9 @@ const Rain = {
 
 ## Like this Post
 
-**[Twitter](https://twitter.com/samantha_ming/status/970015226593624067)**
+**[Like this on Twitter]https://twitter.com/samantha_ming/status/970015226593624067)**
 
-**[Instagram](https://www.instagram.com/p/Bf327_7AIB0/?taken-by=samanthaming)**
+**[Like this on Instagram](https://www.instagram.com/p/Bf327_7AIB0/?taken-by=samanthaming)**
 
 ## Image Download
 

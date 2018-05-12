@@ -4,9 +4,9 @@ This is a cool way to display your data in your browser dev tools. Works great w
 
 ## Like this Post
 
-**[Twitter](https://twitter.com/samantha_ming/status/964174008219418625)**
+**[Like this on Twitter]https://twitter.com/samantha_ming/status/964174008219418625)**
 
-**[Instagram](https://www.instagram.com/p/BfOVuAggSI1/)**
+**[Like this on Instagram](https://www.instagram.com/p/BfOVuAggSI1/)**
 
 ## Image Download
 

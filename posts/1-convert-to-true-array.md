@@ -17,9 +17,9 @@ Array.from(nodeList);
 
 ## Like this Post
 
-**[Twitter](https://twitter.com/samantha_ming/status/962414853607444480)**
+**[Like this on Twitter]https://twitter.com/samantha_ming/status/962414853607444480)**
 
-**[Instagram](https://www.instagram.com/p/BfB23phgsOI/?taken-by=samanthaming)**
+**[Like this on Instagram](https://www.instagram.com/p/BfB23phgsOI/?taken-by=samanthaming)**
 
 
 ## Resources

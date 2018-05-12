@@ -23,9 +23,9 @@ const mom = '🌷'
 
 ## Like this Post
 
-**[Twitter](https://twitter.com/samantha_ming/status/995373862148755456)**
+**[Like this on Twitter]https://twitter.com/samantha_ming/status/995373862148755456)**
 
-**[Instagram](https://www.instagram.com/p/BisCR23B8nT/)**
+**[Like this on Instagram](https://www.instagram.com/p/BisCR23B8nT/)**
 
 
 ## Resources

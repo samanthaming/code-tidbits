@@ -25,9 +25,9 @@ div {
 
 ## Like this Post
 
-**[Twitter](https://twitter.com/samantha_ming/status/967484515835822081)**
+**[Like this on Twitter]https://twitter.com/samantha_ming/status/967484515835822081)**
 
-**[Instagram](https://www.instagram.com/p/Bflz5FeAHUu/?taken-by=samanthaming)**
+**[Like this on Instagram](https://www.instagram.com/p/Bflz5FeAHUu/?taken-by=samanthaming)**
 
 
 ## Resources

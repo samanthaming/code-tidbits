@@ -15,9 +15,9 @@ Arrow functions are terrific, but not suitable for all situations. Avoid them in
 
 ## Like this Post
 
-**[Twitter](https://twitter.com/samantha_ming/status/964977650375696384)**
+**[Like this on Twitter]https://twitter.com/samantha_ming/status/964977650375696384)**
 
-**[Instagram](https://www.instagram.com/p/BfUHooqA1Wc/?taken-by=samanthaming)**
+**[Like this on Instagram](https://www.instagram.com/p/BfUHooqA1Wc/?taken-by=samanthaming)**
 
 
 ## Resources

@@ -21,9 +21,9 @@ var lock = {
 
 ## Like this Post
 
-**[Twitter](https://twitter.com/samantha_ming/status/975086499849953280)**
+**[Like this on Twitter]https://twitter.com/samantha_ming/status/975086499849953280)**
 
-**[Instagram](https://www.instagram.com/p/Bgb5D0ZHd-o/?taken-by=samanthaming)**
+**[Like this on Instagram](https://www.instagram.com/p/Bgb5D0ZHd-o/?taken-by=samanthaming)**
 
 
 ## Image Download

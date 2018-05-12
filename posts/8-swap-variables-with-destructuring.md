@@ -17,9 +17,9 @@ console.log(nominee) // La La Land
 
 ## Like this Post
 
-**[Twitter](https://twitter.com/samantha_ming/status/977621585359089664)**
+**[Like this on Twitter]https://twitter.com/samantha_ming/status/977621585359089664)**
 
-**[Instagram](https://www.instagram.com/p/Bgt5uzwAg8_/?taken-by=samanthaming)**
+**[Like this on Instagram](https://www.instagram.com/p/Bgt5uzwAg8_/?taken-by=samanthaming)**
 
 
 ## Image Download

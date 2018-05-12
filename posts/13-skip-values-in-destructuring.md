@@ -19,9 +19,9 @@ console.log(c2); // keep
 
 ## Like this Post
 
-**[Twitter](https://twitter.com/samantha_ming/status/990301402311348232)**
+**[Like this on Twitter]https://twitter.com/samantha_ming/status/990301402311348232)**
 
-**[Instagram](https://www.instagram.com/p/BiH_WV8hmHI/?taken-by=samanthaming)**
+**[Like this on Instagram](https://www.instagram.com/p/BiH_WV8hmHI/?taken-by=samanthaming)**
 
 
 ## Resources

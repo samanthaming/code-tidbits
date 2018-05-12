@@ -20,9 +20,9 @@ console.log(sandwich2); // [ '🍅', '🥑', '🥓', '🍞' ]
 
 ## Like this Post
 
-**[Twitter](https://twitter.com/samantha_ming/status/992839527969439744)**
+**[Like this on Twitter]https://twitter.com/samantha_ming/status/992839527969439744)**
 
-**[Instagram](https://www.instagram.com/p/BiaB6mAhc8R/?taken-by=samanthaming)**
+**[Like this on Instagram](https://www.instagram.com/p/BiaB6mAhc8R/?taken-by=samanthaming)**
 
 
 ## Resources

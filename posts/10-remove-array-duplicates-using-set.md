@@ -28,9 +28,9 @@ console.log(uniques) // [1,2,3,4,1]
 
 ## Like this Post
 
-**[Twitter](https://twitter.com/samantha_ming/status/982699751022800897)**
+**[Like this on Twitter]https://twitter.com/samantha_ming/status/982699751022800897)**
 
-**[Instagram](https://www.instagram.com/p/BhR-XLWA8eF/?taken-by=samanthaming)**
+**[Like this on Instagram](https://www.instagram.com/p/BhR-XLWA8eF/?taken-by=samanthaming)**
 
 
 ## Image Download

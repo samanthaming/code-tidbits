@@ -21,9 +21,9 @@ console.log(slicedPizza2) // [ 'p', 'i', 'z', 'z', 'a' ]
 
 ## Like this Post
 
-**[Twitter](https://twitter.com/samantha_ming/status/987758991026544640)**
+**[Like this on Twitter]https://twitter.com/samantha_ming/status/987758991026544640)**
 
-**[Instagram](https://www.instagram.com/p/Bh1601FB4KJ/?taken-by=samanthaming)**
+**[Like this on Instagram](https://www.instagram.com/p/Bh1601FB4KJ/?taken-by=samanthaming)**
 
 
 ## Resources
