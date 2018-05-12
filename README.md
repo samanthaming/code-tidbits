@@ -13,13 +13,13 @@ Instagram: [@samanthaming](https://www.instagram.com/SamanthaMing/)
 
 ## 💖 Download & Share 
 
-Absolutely! You are more than welcome to download and share my code tibits. If you've gotten any value from my content and would like to help me reach more people, I'd really appreciate it if you could attribute my Twitter (@samantha_ming) and Instagram (@samanthaming) handle with your share! 
+Absolutely! You are more than welcome to download and share my code tibits. If you've gotten any value from my content and would like to help me reach more people, I'd really appreciate it if you could attribute my Twitter (@samantha_ming) and Instagram (@samanthaming) with your share! 
 
 ## My Posts
 
-|   |      |
-|---|:-----|
-| 15 | [4 Ways to Combine String](posts/14-4-ways-to-combine-strings.md) 🆕 |
+|   |   &nbsp;   |
+|---|:-----------|
+| 15 | [4 Ways to Combine String](posts/15-4-ways-to-combine-strings.md) 🆕 |
 | 14 | [Combine Multiple Arrays Using Spread](posts/14-combine-multiple-arrays-using-spread.md) |
 | 13 | [Skip Values In Destructuring](posts/13-skip-values-in-destructuring.md) |
 | 12 | [Split String Using ES6 Spread](posts/12-split-string-using-spread.md) |
@@ -40,6 +40,6 @@ Absolutely! You are more than welcome to download and share my code tibits. If y
 
 Yes! Anyone is welcome to contribute to the quality of this content. Please feel free to submit a PR request for typo fixes, spelling corrections, explanation improvements, etc.
 
-## 👩🏻‍⚖️ Legal Note 
+## 👩🏻‍⚖️ Note 
 
 I will be using the content of this repo for my upcoming podcast and maybe other publications. So, if you do contribute content, please be aware that you agree that you're giving me a non-exclusive license to use this content as I deem appropriate. After doing a podcast episode on law and legal matters, I thought it's important that I mention this. Thanks for understanding!
