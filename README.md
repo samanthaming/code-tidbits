@@ -15,7 +15,7 @@ Instagram: [@samanthaming](https://www.instagram.com/SamanthaMing/)
 
 Absolutely! You are more than welcome to download and share my code tibits. If you've gotten any value from my content and would like to help me reach more people, I'd really appreciate it if you could attribute my Twitter (@samantha_ming) and Instagram (@samanthaming) with your share! 
 
-## My Posts
+## 🔥 My Posts
 
 |   |      |
 |---|:-----|
