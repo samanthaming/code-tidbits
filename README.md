@@ -1,10 +1,10 @@
 # Code Tidbits
 
-Hello and Welcome 👋
+Hello and Welcome 😀
 
 Hope you've been enjoying the code tidbits I've been posting on social media! Here you will find the actual code, description, and any resources that I used to create them.
 
-## 🔥 Follow me on social media 
+## 👋 Say Hello!
 
 > I share JS, HTML, CSS tidbits every week on Twitter and Instagram.
 
@@ -39,6 +39,10 @@ Absolutely! You are more than welcome to download and share my code tibits. If y
 ## 🌟 Contribution
 
 Yes! Anyone is welcome to contribute to the quality of this content. Please feel free to submit a PR request for typo fixes, spelling corrections, explanation improvements, etc.
+
+_Section Template_
+
+All the markdown files follow this [template](MARKDOWN_TEMPLATE.md). Here is a [sample post](posts/13-skip-values-in-destructuring.md) that showcase this.
 
 ## 👩🏻‍⚖️ Note 
 

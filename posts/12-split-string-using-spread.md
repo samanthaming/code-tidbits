@@ -28,7 +28,7 @@ console.log(slicedPizza2) // [ 'p', 'i', 'z', 'z', 'a' ]
 
 ## Resources
 
-- https://stackoverflow.com/questions/44900175/why-does-spread-syntax-convert-my-string-into-an-array?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
+- https://stackoverflow.com/questions/44900175/why-does-spread-syntax-convert-my-string-into-an-array
 
 
 ## Image Download

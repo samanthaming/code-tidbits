@@ -16,9 +16,9 @@ let [ , , c2] = ['ignore', 'ignore', 'keep'];
 console.log(c2); // keep
 ```
 
-## Improvements
+## Community Suggestions
 
-### Using Comments to Improve Code Readability
+### Use Comments to Improve Code Readability
 
 You can use comments within the blank spaces to make your code more readable.
 This will help communicate to your fellow developers that you are intentionally skipping over the unwanted values.
@@ -39,13 +39,13 @@ let [
 let [chili, /*rotten*/, /*rancid*/, c] = ['chili', 'rotten', 'rancid', 'keep', 'olive'];
 ```
 
-## Examples
+## Community Examples
 
 ### Parsing data from `split()`
 
 Parsing comma-deliminated data and grabbing only what you need.
 
-_Thanks: [@SamHulick](https://twitter.com/SamHulick)_
+Thanks: [@SamHulick](https://twitter.com/SamHulick)
 
 ```js
 const tooMuchData = '33871,LOC,type1,99.27,FN';
