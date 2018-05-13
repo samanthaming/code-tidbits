@@ -4,7 +4,7 @@ Hello and Welcome 😀
 
 Hope you've been enjoying the code tidbits I've been posting on social media! Here you will find the actual code, description, and any resources that I used to create them.
 
-## 👋 Say Hello!
+## Say Hello 👋 
 
 > I share JS, HTML, CSS tidbits every week on Twitter and Instagram.
 
