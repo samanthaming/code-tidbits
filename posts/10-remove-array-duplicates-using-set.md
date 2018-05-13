@@ -35,4 +35,4 @@ console.log(uniques) // [1,2,3,4,1]
 
 ## Image Download
 
-![Download](10-remove-array-duplicates-using-set)
+![Download](10-remove-array-duplicates-using-set.png)
