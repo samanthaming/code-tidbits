@@ -40,9 +40,9 @@ Absolutely! You are more than welcome to download and share my code tibits. If y
 
 Yes! Anyone is welcome to contribute to the quality of this content. Please feel free to submit a PR request for typo fixes, spelling corrections, explanation improvements, etc.
 
-_Section Template_
+###### Section Template
 
-All the markdown files follow this [template](MARKDOWN_TEMPLATE.md). Here is a [sample post](posts/13-skip-values-in-destructuring.md) that showcase this.
+All the markdown files follow this [template](MARKDOWN_TEMPLATE.md). Here is a [sample post](posts/13-skip-values-in-destructuring.md) that showcases this.
 
 ## 👩🏻‍⚖️ Note 
 
