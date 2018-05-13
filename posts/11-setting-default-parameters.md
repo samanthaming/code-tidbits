@@ -19,7 +19,7 @@ function coffeeOrTea2(drink = '🍵') {
 }
 ```
 
-## Like this ❤️
+## Like ❤️
 
 **[Like this on Twitter](https://twitter.com/samantha_ming/status/985230884969185281)**
 

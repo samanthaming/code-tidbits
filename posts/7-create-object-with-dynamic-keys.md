@@ -19,7 +19,7 @@ var lock = {
 ```
 
 
-## Like this ❤️
+## Like ❤️
 
 **[Like this on Twitter](https://twitter.com/samantha_ming/status/975086499849953280)**
 

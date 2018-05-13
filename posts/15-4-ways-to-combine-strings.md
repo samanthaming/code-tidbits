@@ -20,7 +20,7 @@ const mom = '🌷'
 'Happy Mother\'s Day ' + mom
 ```
 
-## Like this ❤️
+## Like ❤️
 
 **[Like this on Twitter](https://twitter.com/samantha_ming/status/995373862148755456)**
 

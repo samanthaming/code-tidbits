@@ -19,7 +19,7 @@ const slicedPizza2 = [...pizza];
 console.log(slicedPizza2) // [ 'p', 'i', 'z', 'z', 'a' ]
 ```
 
-## Like this ❤️
+## Like ❤️
 
 **[Like this on Twitter](https://twitter.com/samantha_ming/status/987758991026544640)**
 

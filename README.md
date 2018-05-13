@@ -42,4 +42,4 @@ Yes! Anyone is welcome to contribute to the quality of this content. Please feel
 
 ## 👩🏻‍⚖️ Note 
 
-I will be using the content of this repo for my upcoming podcast and maybe other publications. So, if you do contribute content, please be aware that you agree that you're giving me a non-exclusive license to use this content as I deem appropriate. After doing a podcast episode on law and legal matters, I thought it's important that I mention this. Thanks for understanding!
+I will be using the content of this repo for my upcoming podcast and maybe other publications. So, if you do contribute content, please be aware that you agree that you're giving me a non-exclusive license to use this content as I deem appropriate. After doing a podcast episode on law and legal matters, I thought it's important that I include this section. Thanks for understanding!

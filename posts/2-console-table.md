@@ -29,7 +29,7 @@ const amazingAthletes = [
 console.table(amazingAthletes);
 ```
 
-## Like this ❤️
+## Like ❤️
 
 **[Like this on Twitter](https://twitter.com/samantha_ming/status/964174008219418625)**
 

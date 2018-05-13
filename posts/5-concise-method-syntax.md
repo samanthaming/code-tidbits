@@ -14,7 +14,7 @@ const Rain = {
 }
 ```
 
-## Like this ❤️
+## Like ❤️
 
 **[Like this on Twitter](https://twitter.com/samantha_ming/status/970015226593624067)**
 

@@ -22,7 +22,7 @@ p::-moz-selection {
 }
 ```
 
-## Like this ❤️
+## Like ❤️
 
 **[Like this on Twitter](https://twitter.com/samantha_ming/status/972566700418727936)**
 
