@@ -15,7 +15,7 @@ console.log(oscar) // Moonlight
 console.log(nominee) // La La Land
 ```
 
-## Like this Post
+## Like this Post ❤️
 
 **[Like this on Twitter](https://twitter.com/samantha_ming/status/977621585359089664)**
 

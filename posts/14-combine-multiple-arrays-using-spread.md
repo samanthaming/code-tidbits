@@ -18,7 +18,7 @@ let sandwich2 = [...veggie, ...meat, '🍞'];
 console.log(sandwich2); // [ '🍅', '🥑', '🥓', '🍞' ]
 ```
 
-## Like this Post
+## Like this Post ❤️
 
 **[Like this on Twitter](https://twitter.com/samantha_ming/status/992839527969439744)**
 

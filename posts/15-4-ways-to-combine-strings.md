@@ -17,11 +17,10 @@ const mom = '🌷'
 "".concat('Happy ', 'Mother\'s ', 'Day ', mom)
 
 // + Operator
-'Happy Mother\'s Day' + mom
+'Happy Mother\'s Day ' + mom
 ```
 
-
-## Like this Post
+## Like this ❤️
 
 **[Like this on Twitter](https://twitter.com/samantha_ming/status/995373862148755456)**
 

@@ -13,7 +13,7 @@ Arrow functions are terrific, but not suitable for all situations. Avoid them in
 // Avoid Arrow Functions in Objects
 ```
 
-## Like this Post
+## Like this Post ❤️
 
 **[Like this on Twitter](https://twitter.com/samantha_ming/status/964977650375696384)**
 

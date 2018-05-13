@@ -15,7 +15,7 @@ Array.from(nodeList);
 // Now you can use map and other methods to loop
 ```
 
-## Like this Post
+## Like this Post ❤️
 
 **[Like this on Twitter](https://twitter.com/samantha_ming/status/962414853607444480)**
 
