@@ -18,7 +18,7 @@ console.log(string + number) // 1005
 console.log(+string + number) // 105
 ```
 
-## Like this Post ❤️
+## Like this ❤️
 
 **[Like this on Twitter](https://twitter.com/samantha_ming/status/980157046698909696)**
 

@@ -17,7 +17,7 @@ let [ , , c2] = ['ignore', 'ignore', 'keep'];
 console.log(c2); // keep
 ```
 
-## Like this Post ❤️
+## Like this ❤️
 
 **[Like this on Twitter](https://twitter.com/samantha_ming/status/990301402311348232)**
 

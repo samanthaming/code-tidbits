@@ -26,7 +26,7 @@ const uniques = [...new Set(duplicates)];
 console.log(uniques) // [1,2,3,4,1]
 ```
 
-## Like this Post ❤️
+## Like this ❤️
 
 **[Like this on Twitter](https://twitter.com/samantha_ming/status/982699751022800897)**
 
