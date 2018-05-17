@@ -23,7 +23,7 @@ console.log(c2); // keep
 You can use comments within the blank spaces to make your code more readable.
 This will help communicate to your fellow developers that you are intentionally skipping over the unwanted values.
 
-Thanks: [@sulco](https://twitter.com/sulco/status/990952399060832257)
+_Thanks: [@sulco](https://twitter.com/sulco/status/990952399060832257)_
 
 ```js
 let [
@@ -45,7 +45,7 @@ let [chili, /*rotten*/, /*rancid*/, c] = ['chili', 'rotten', 'rancid', 'keep', '
 
 Parsing comma-deliminated data and grabbing only what you need.
 
-Thanks: [@SamHulick](https://twitter.com/SamHulick)
+_Thanks: [@SamHulick](https://twitter.com/SamHulick)_
 
 ```js
 const tooMuchData = '33871,LOC,type1,99.27,FN';

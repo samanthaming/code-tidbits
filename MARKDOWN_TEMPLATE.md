@@ -13,7 +13,7 @@
 
 [ENTER Description]
 
-`Thanks: [@<ENTER Contributor-Handle>](<ENTER Contributor Social Media Link>)`
+_`Thanks: [@<ENTER Contributor-Handle>](<ENTER Contributor Social Media Link>)`_
 
 ```js
 [ENTER Code Example]
@@ -25,7 +25,7 @@
 
 [ENTER Description]
 
-`Thanks: [@<ENTER Contributor-Handle>](<ENTER Contributor Social Media Link>)`
+_`Thanks: [@<ENTER Contributor-Handle>](<ENTER Contributor Social Media Link>)`_
 
 ```js
 [ENTER Code Example]
