@@ -18,13 +18,6 @@ let sandwich2 = [...veggie, ...meat, '🍞'];
 console.log(sandwich2); // [ '🍅', '🥑', '🥓', '🍞' ]
 ```
 
-## Like ❤️
-
-**[Like this on Twitter](https://twitter.com/samantha_ming/status/992839527969439744)**
-
-**[Like this on Instagram](https://www.instagram.com/p/BiaB6mAhc8R/?taken-by=samanthaming)**
-
-
 ## Resources
 
 - https://davidwalsh.name/spread-operator
@@ -33,4 +26,4 @@ console.log(sandwich2); // [ '🍅', '🥑', '🥓', '🍞' ]
 
 ## Image Download
 
-![Download](14-combine-multiple-arrays-using-spread.png)
+[Download](https://github.com/samanthaming/code-tidbits/blob/master/images/14-combine-multiple-arrays-using-spread.png)

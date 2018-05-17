@@ -26,13 +26,6 @@ const uniques = [...new Set(duplicates)];
 console.log(uniques) // [1,2,3,4,1]
 ```
 
-## Like ❤️
-
-**[Like this on Twitter](https://twitter.com/samantha_ming/status/982699751022800897)**
-
-**[Like this on Instagram](https://www.instagram.com/p/BhR-XLWA8eF/?taken-by=samanthaming)**
-
-
 ## Image Download
 
-![Download](10-remove-array-duplicates-using-set.png)
+[Download](https://github.com/samanthaming/code-tidbits/blob/master/images/10-remove-array-duplicates-using-set.png)

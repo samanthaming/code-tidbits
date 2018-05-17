@@ -54,13 +54,6 @@ const [, , , price] = tooMuchData.split(',');
 console.log(price); // 99.27
 ```
 
-## Like ❤️
-
-**[Like this on Twitter](https://twitter.com/samantha_ming/status/990301402311348232)**
-
-**[Like this on Instagram](https://www.instagram.com/p/BiH_WV8hmHI/?taken-by=samanthaming)**
-
-
 ## Resources
 
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment#Ignoring_some_returned_values
@@ -74,4 +67,4 @@ console.log(price); // 99.27
 
 ## Image Download
 
-![Download](13-skip-values-in-destructuring.png)
+[Download](https://github.com/samanthaming/code-tidbits/blob/master/images/13-skip-values-in-destructuring.png)

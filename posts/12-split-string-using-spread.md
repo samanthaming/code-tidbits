@@ -19,13 +19,6 @@ const slicedPizza2 = [...pizza];
 console.log(slicedPizza2) // [ 'p', 'i', 'z', 'z', 'a' ]
 ```
 
-## Like ❤️
-
-**[Like this on Twitter](https://twitter.com/samantha_ming/status/987758991026544640)**
-
-**[Like this on Instagram](https://www.instagram.com/p/Bh1601FB4KJ/?taken-by=samanthaming)**
-
-
 ## Resources
 
 - https://stackoverflow.com/questions/44900175/why-does-spread-syntax-convert-my-string-into-an-array
@@ -33,4 +26,4 @@ console.log(slicedPizza2) // [ 'p', 'i', 'z', 'z', 'a' ]
 
 ## Image Download
 
-![Download](12-split-string-using-spread.png)
+[Download](https://github.com/samanthaming/code-tidbits/blob/master/images/12-split-string-using-spread.png)

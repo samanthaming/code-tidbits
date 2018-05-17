@@ -20,13 +20,6 @@ const concatMethod = "".concat('Happy ', 'Mother\'s ', 'Day ', mom);
 const plusOperator = 'Happy Mother\'s Day ' + mom;
 ```
 
-## Like ❤️
-
-**[Like this on Twitter](https://twitter.com/samantha_ming/status/995373862148755456)**
-
-**[Like this on Instagram](https://www.instagram.com/p/BisCR23B8nT/)**
-
-
 ## Resources
 
 - [MDN Template Literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
@@ -34,4 +27,4 @@ const plusOperator = 'Happy Mother\'s Day ' + mom;
 
 ## Image Download
 
-![Download](15-4-ways-to-combine-strings.png)
+[Download](https://github.com/samanthaming/code-tidbits/blob/master/images/15-4-ways-to-combine-strings.png)

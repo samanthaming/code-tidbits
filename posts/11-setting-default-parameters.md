@@ -19,13 +19,6 @@ function coffeeOrTea2(drink = '🍵') {
 }
 ```
 
-## Like ❤️
-
-**[Like this on Twitter](https://twitter.com/samantha_ming/status/985230884969185281)**
-
-**[Like this on Instagram](https://www.instagram.com/p/Bhj9ITfhlNT/?taken-by=samanthaming)**
-
-
 ## Resources
 
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters
@@ -33,4 +26,4 @@ function coffeeOrTea2(drink = '🍵') {
 
 ## Image Download
 
-![Download](11-setting-default-parameters.png)
+[Download](https://github.com/samanthaming/code-tidbits/blob/master/images/11-setting-default-parameters.png)

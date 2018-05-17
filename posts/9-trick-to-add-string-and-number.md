@@ -18,13 +18,6 @@ console.log(string + number) // 1005
 console.log(+string + number) // 105
 ```
 
-## Like ❤️
-
-**[Like this on Twitter](https://twitter.com/samantha_ming/status/980157046698909696)**
-
-**[Like this on Instagram](https://www.instagram.com/p/Bg_54HGAT-f/?taken-by=samanthaming)**
-
-
 ## Resources
 
 - https://medium.com/@nikjohn/cast-to-number-in-javascript-using-the-unary-operator-f4ca67c792ce
@@ -32,4 +25,4 @@ console.log(+string + number) // 105
 
 ## Image Download
 
-![Download](9-trick-to-add-string-and-number.png)
+[Download](https://github.com/samanthaming/code-tidbits/blob/master/images/9-trick-to-add-string-and-number.png)

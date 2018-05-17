@@ -23,13 +23,6 @@ div {
 }
 ```
 
-## Like ❤️
-
-**[Like this on Twitter](https://twitter.com/samantha_ming/status/967484515835822081)**
-
-**[Like this on Instagram](https://www.instagram.com/p/Bflz5FeAHUu/?taken-by=samanthaming)**
-
-
 ## Resources
 
 - https://medium.freecodecamp.org/everything-you-need-to-know-about-css-variables-c74d922ea855
@@ -37,4 +30,4 @@ div {
 
 ## Image Download
 
-![Download](4-declaring-css-variables.png)
+[Download](https://github.com/samanthaming/code-tidbits/blob/master/images/4-declaring-css-variables.png)

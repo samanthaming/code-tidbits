@@ -22,13 +22,6 @@ p::-moz-selection {
 }
 ```
 
-## Like ❤️
-
-**[Like this on Twitter](https://twitter.com/samantha_ming/status/972566700418727936)**
-
-**[Like this on Instagram](https://www.instagram.com/p/BgJ8DMNH9QW/?taken-by=samanthaming)**
-
-
 ## Resources
 
 - https://css-tricks.com/almanac/selectors/s/selection/
@@ -36,4 +29,4 @@ p::-moz-selection {
 
 ## Image Download
 
-![Download](6-custom-css-selection-styling.gif)
+[Download](https://github.com/samanthaming/code-tidbits/blob/master/images/6-custom-css-selection-styling.gif)

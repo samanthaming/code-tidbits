@@ -13,13 +13,6 @@ Arrow functions are terrific, but not suitable for all situations. Avoid them in
 // Avoid Arrow Functions in Objects
 ```
 
-## Like ❤️
-
-**[Like this on Twitter](https://twitter.com/samantha_ming/status/964977650375696384)**
-
-**[Like this on Instagram](https://www.instagram.com/p/BfUHooqA1Wc/?taken-by=samanthaming)**
-
-
 ## Resources
 
 - https://wesbos.com/arrow-function-no-no/
@@ -27,4 +20,4 @@ Arrow functions are terrific, but not suitable for all situations. Avoid them in
 
 ## Image Download
 
-![Download](3-when-not-to-use-arrow-functions.png)
+[Download](https://github.com/samanthaming/code-tidbits/blob/master/images/3-when-not-to-use-arrow-functions.png)

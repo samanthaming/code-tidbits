@@ -18,14 +18,6 @@ var lock = {
 }
 ```
 
-
-## Like ❤️
-
-**[Like this on Twitter](https://twitter.com/samantha_ming/status/975086499849953280)**
-
-**[Like this on Instagram](https://www.instagram.com/p/Bgb5D0ZHd-o/?taken-by=samanthaming)**
-
-
 ## Image Download
 
-![Download](7-create-object-with-dynamic-keys.png)
+[Download](https://github.com/samanthaming/code-tidbits/blob/master/images/7-create-object-with-dynamic-keys.png)

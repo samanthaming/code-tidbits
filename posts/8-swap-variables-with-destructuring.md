@@ -15,13 +15,6 @@ console.log(oscar) // Moonlight
 console.log(nominee) // La La Land
 ```
 
-## Like ❤️
-
-**[Like this on Twitter](https://twitter.com/samantha_ming/status/977621585359089664)**
-
-**[Like this on Instagram](https://www.instagram.com/p/Bgt5uzwAg8_/?taken-by=samanthaming)**
-
-
 ## Image Download
 
-![Download](8-swap-variables-with-destructuring.png)
+[Download](https://github.com/samanthaming/code-tidbits/blob/master/images/8-swap-variables-with-destructuring.png)
