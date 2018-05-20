@@ -31,13 +31,6 @@ _`Thanks: [@<ENTER Contributor-Handle>](<ENTER Contributor Social Media Link>)`_
 [ENTER Code Example]
 ```
 
-## Like ❤️
-
-`**[Twitter](<Twitter Post Link>)**`
-
-`**[Instagram](Instagram Post Link>)**`
-
-
 ## Resources
 
 - `(Resource Link)`
