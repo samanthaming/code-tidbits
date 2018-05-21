@@ -13,7 +13,8 @@ marryMe(); // I will
 
 marryMe('HECK YEAH 💋'); // HECK YEAH 💋
 ```
-<br>
+
+### Multiple Default Parameters
 
 You can also have multiple parameters with default values.
 
@@ -27,7 +28,8 @@ marryMe();
 // yes
 // Harry
 ``` 
-<br>
+
+### Single String `console.log` Output
 
 You can print the the above line in one `console.log` statement.
 Just separate the value by a comma `,`
@@ -39,7 +41,8 @@ function marryMe(yes = 'I will', prince = 'Harry') {
 
 marryMe(); // I will Harry
 ```
-<br>
+
+### Skip Parameter with `undefined` 
 
 If you want to skip over parameters and maintain the default values. You can pass `undefined` as the argument for the parameters you want to gloss over.
 
@@ -57,7 +60,7 @@ marryMe(
 
 ## Community Examples
 
-### Multiple Default Params
+### Multiple Default Parameters
 
 You can print all the default params in an object.
 
@@ -73,7 +76,8 @@ person();
 _Thanks: Brian R._
 
 <br>
-The reason the above works is because it is utilizing ES6 enhanced object literal property value shorthand. When the property key matches the variable name, you can omit the variable name.
+
+☝️ The reason the above works is because it is utilizing ES6 enhanced object literal property value shorthand. When the property key matches the variable name, you can omit the variable name.
 
 ```javascript
 // Old Way
@@ -92,6 +96,7 @@ console.log({
 ```
 
 _Thanks: Emmanuel K._
+
 
 ## Resources
 
