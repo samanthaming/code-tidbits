@@ -91,6 +91,7 @@ _Thanks: Aleksandar H_
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from
 - https://www.contentful.com/blog/2016/12/06/unicode-javascript-and-the-emoji-family/
 - https://dmitripavlutin.com/what-every-javascript-developer-should-know-about-unicode/
+- https://medium.com/@giltayar/iterating-over-emoji-characters-the-es6-way-f06e4589516
 
 ## Image Download
 
