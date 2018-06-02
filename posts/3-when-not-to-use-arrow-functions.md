@@ -16,8 +16,3 @@ Arrow functions are terrific, but not suitable for all situations. Avoid them in
 ## Resources
 
 - https://wesbos.com/arrow-function-no-no/
-
-
-## Image Download
-
-[Download](https://github.com/samanthaming/code-tidbits/blob/master/images/3-when-not-to-use-arrow-functions.png)

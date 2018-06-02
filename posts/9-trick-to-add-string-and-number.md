@@ -21,8 +21,3 @@ console.log(+string + number) // 105
 ## Resources
 
 - https://medium.com/@nikjohn/cast-to-number-in-javascript-using-the-unary-operator-f4ca67c792ce
-
-
-## Image Download
-
-[Download](https://github.com/samanthaming/code-tidbits/blob/master/images/9-trick-to-add-string-and-number.png)

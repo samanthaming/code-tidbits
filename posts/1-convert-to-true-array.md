@@ -18,8 +18,3 @@ Array.from(nodeList);
 ## Resources
 
 - https://github.com/wesbos/es6-articles/blob/master/25%20-%20Array.from()%20and%20Array.of().md
-
-
-## Image Download
-
-[Download](https://github.com/samanthaming/code-tidbits/blob/master/images/1-convert-to-true-array.png)

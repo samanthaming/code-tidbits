@@ -92,7 +92,3 @@ _Thanks: Aleksandar H_
 - https://www.contentful.com/blog/2016/12/06/unicode-javascript-and-the-emoji-family/
 - https://dmitripavlutin.com/what-every-javascript-developer-should-know-about-unicode/
 - https://medium.com/@giltayar/iterating-over-emoji-characters-the-es6-way-f06e4589516
-
-## Image Download
-
-[Download](https://github.com/samanthaming/code-tidbits/blob/master/images/12-split-string-using-spread.png)

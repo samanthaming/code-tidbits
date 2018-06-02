@@ -22,8 +22,3 @@ function coffeeOrTea2(drink = '🍵') {
 ## Resources
 
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters
-
-
-## Image Download
-
-[Download](https://github.com/samanthaming/code-tidbits/blob/master/images/11-setting-default-parameters.png)

@@ -13,7 +13,3 @@ const Rain = {
   }
 }
 ```
-
-## Image Download
-
-[Download](https://github.com/samanthaming/code-tidbits/blob/master/images/5-concise-method-syntax.png)

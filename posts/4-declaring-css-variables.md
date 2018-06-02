@@ -26,8 +26,3 @@ div {
 ## Resources
 
 - https://medium.freecodecamp.org/everything-you-need-to-know-about-css-variables-c74d922ea855
-
-
-## Image Download
-
-[Download](https://github.com/samanthaming/code-tidbits/blob/master/images/4-declaring-css-variables.png)

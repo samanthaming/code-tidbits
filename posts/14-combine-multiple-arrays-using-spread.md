@@ -22,8 +22,3 @@ console.log(sandwich2); // [ '🍅', '🥑', '🥓', '🍞' ]
 
 - https://davidwalsh.name/spread-operator
 - https://gist.github.com/yesvods/51af798dd1e7058625f4
-
-
-## Image Download
-
-[Download](https://github.com/samanthaming/code-tidbits/blob/master/images/14-combine-multiple-arrays-using-spread.png)

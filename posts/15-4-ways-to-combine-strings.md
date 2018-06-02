@@ -23,8 +23,3 @@ const plusOperator = 'Happy Mother\'s Day ' + mom;
 ## Resources
 
 - [MDN Template Literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
-
-
-## Image Download
-
-[Download](https://github.com/samanthaming/code-tidbits/blob/master/images/15-4-ways-to-combine-strings.png)

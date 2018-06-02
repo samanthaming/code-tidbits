@@ -101,9 +101,3 @@ _Thanks: Emmanuel K._
 ## Resources
 
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters
-
-
-## Image Download
-
-[Download](https://github.com/samanthaming/code-tidbits/blob/master/images/16-royal-wedding-default-param.png)
-

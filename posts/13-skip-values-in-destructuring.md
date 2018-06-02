@@ -63,8 +63,3 @@ console.log(price); // 99.27
 - https://stackoverflow.com/questions/46775128/how-can-i-ignore-certain-returned-values-from-array-destructuring
 
 - http://2ality.com/2015/01/es6-destructuring.html
-
-
-## Image Download
-
-[Download](https://github.com/samanthaming/code-tidbits/blob/master/images/13-skip-values-in-destructuring.png)

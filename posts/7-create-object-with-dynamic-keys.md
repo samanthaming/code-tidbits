@@ -17,7 +17,3 @@ var lock = {
   [key]: 'unlock';
 }
 ```
-
-## Image Download
-
-[Download](https://github.com/samanthaming/code-tidbits/blob/master/images/7-create-object-with-dynamic-keys.png)

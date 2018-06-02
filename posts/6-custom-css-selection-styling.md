@@ -25,8 +25,3 @@ p::-moz-selection {
 ## Resources
 
 - https://css-tricks.com/almanac/selectors/s/selection/
-
-
-## Image Download
-
-[Download](https://github.com/samanthaming/code-tidbits/blob/master/images/6-custom-css-selection-styling.gif)

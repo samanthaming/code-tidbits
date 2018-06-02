@@ -14,7 +14,3 @@ let nominee = 'Moonlight';
 console.log(oscar) // Moonlight
 console.log(nominee) // La La Land
 ```
-
-## Image Download
-
-[Download](https://github.com/samanthaming/code-tidbits/blob/master/images/8-swap-variables-with-destructuring.png)

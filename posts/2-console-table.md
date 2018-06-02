@@ -28,7 +28,3 @@ const amazingAthletes = [
 
 console.table(amazingAthletes);
 ```
-
-## Image Download
-
-[Download](https://github.com/samanthaming/code-tidbits/blob/master/images/2-console-table.png)
