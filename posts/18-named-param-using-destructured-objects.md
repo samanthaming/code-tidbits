@@ -8,17 +8,68 @@ Since JavaScript doesn’t natively support named parameters. This is a cool way
 ```javascript
 // Boo, arguments must be in specific order
 function meal(protein, carb, veggie){
-  
 }
 meal('🥩', '🍚', '🥦')
 
+
 // Yay, arguments can be in any order
 function meal2({protein, carb, veggie}){
+}
+meal2({carb: '🍚', veggie: '🥦', protein: '🥩'})
+```
+
+<br/>
+
+Here's how you can access the value within the function
+
+```javascript
+function meal2({protein, carb, veggie}){
   
-  console.log(protein, veggie, carb); 
-  // 🥩  🥦  🍚
+  console.log(protein, veggie, carb); // 🥩  🥦  🍚
 }
 meal2({carb: '🍚', veggie: '🥦', protein: '🥩'}) 
+```
+
+### Add a Default to Safe Guard from Error
+
+If you forget to pass an argument to the function, you will get a `TypeError`
+
+```javascript
+function meal2({protein, carb, veggie}){
+}
+
+meal2(); // No Argument
+
+// This will throw a "TypeError: Cannot destructure property ..." 
+```
+<br/>
+
+**Solution**: To solve this, you can set a default empty object, `{}`. So if you forget to pass an argument, you will get `undefined` instead.
+
+```javascript
+function meal2({protein, carb, veggie} = {}){ // 👈 
+}
+
+meal2(); // No Argument
+
+// This will return "undefined"
+```
+
+### Combining with Default Parameters
+
+You can also set default parameter within the object.
+
+```javascript
+function meal2({protein = 'protein', carb, veggie} = {}){
+  
+  console.log(
+    protein, // 'protein'
+    veggie,  // undefined
+    carb     // '🍚'
+  ); 
+}
+
+meal2({carb: '🍚'}) 
 ```
 
 ## Community Examples
