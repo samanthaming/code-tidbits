@@ -49,7 +49,7 @@ typeof (Boolean(str)); // boolean
 typeof (!!str); // boolean
 ```
 
-_Thanks: CJ J._
+_Thanks: [CJ J](https://www.linkedin.com/in/~cj-johnson)._
 
 
 ## Community Examples
@@ -67,7 +67,7 @@ arr // [ 'some', 'list', '', 'of', 'values' ]
 arr.filter(Boolean) // [ 'some', 'list', 'of', 'values' ]
 ```
 
-_Thanks: CJ J._
+_Thanks: [CJ J](https://www.linkedin.com/in/~cj-johnson)._
 
 
 ## Resources
