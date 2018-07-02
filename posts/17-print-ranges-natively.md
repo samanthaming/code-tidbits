@@ -87,6 +87,14 @@ _Thanks: [@omiraclx](https://www.instagram.com/omiraclx/)_
 // [ 0, 1, 2, 3, 4 ]
 ```
 
+Very similar using `Array.from`
+
+```javascript
+Array.from({length: 5}, (v, i) => i);
+
+// [0, 1, 2, 3, 4]
+```
+
 Or create a function:
 
 ```javascript
