@@ -19,7 +19,7 @@ NaN
 // Everything else is truthy
 ```
 
-## Values that are actually True
+## Values that are actually Truthy
 
 Here are some sample values that you might have thought was true (at least I did), but it actually evaluates to `true`. Remember if it's not on the false list, it's true!
 
@@ -47,7 +47,7 @@ if(null === null)
 if(NaN === null)
 if(0 === null)
 if("" === null)
-if(value === u)
+if(value === null)
 
 // ✅  Much better
 if(value)
@@ -79,9 +79,22 @@ const or = [] || "hi"; // []
 `&&` comparison will stop as soon as a falsy expression is evaluated
 
 ```javascript
-const and = "" || "hi"; // ""
-const and = [] || "hi"; // "hi"
+const and = "" && "hi"; // ""
+const and = [] && "hi"; // "hi"
 ```
+
+## Community Examples
+
+
+### Using Falsy Values for Unit Testing
+
+_Jason A:_ Sometimes when unit testing I use an array of falsy values and loop over them to see if my fallback works correctly, sorta like this: 
+
+```javascript
+[false, undefined, NaN].forEach((el) => expect(funcImTesting(el).to.be("my fallback")))
+```
+
+_Thanks: [@jsawbrey](https://twitter.com/jsawbrey/status/1020929326852657152)_
 
 ## Resources
 

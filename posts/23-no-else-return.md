@@ -107,7 +107,7 @@ I'm going to throw a curve ball and introduce the `guard` pattern. The guard cla
 ```javascript
 function calcPercentage(number) {
   
-  // Guard #1: Stop execution if it's not a valie number
+  // Guard #1: Stop execution if it's not a valid number
   if(typeof number !== 'number') { 
     return 'Please enter valid whole number';
   }

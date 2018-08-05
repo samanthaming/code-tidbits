@@ -20,9 +20,11 @@ Array(3).fill(canada).join('')
 The repeat method simply repeats your string. It returns a new string that concatentates the specified number of copies you indicated.
 
 ```javascript
-'🇨🇦'.repeat(3); '🇨🇦🇨🇦🇨🇦'
-'Hey'.repeat(2); 'HeyHeyHey'
-'Blank'.repeat(0); ''
+'🇨🇦'.repeat(3); // '🇨🇦🇨🇦🇨🇦'
+
+'Hey'.repeat(2); // 'HeyHeyHey'
+
+'Blank'.repeat(0); // ''
 ```
 
 ## How `fill` works
@@ -58,7 +60,7 @@ arr.join(''); // '🇨🇦🇨🇦🇨🇦'
 
 _Thanks: Alen H._
 
-### Using just `join`
+### Using `join` only
 
 A even shorter shortcut to repeat string using just the `join` method. Cool ✌️
 
