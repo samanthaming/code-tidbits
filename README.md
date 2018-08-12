@@ -6,10 +6,12 @@ Hope you've been enjoying the code tidbits I've been posting on social media! He
 
 ## Say Hello 👋 
 
-> I share JS, HTML, CSS tidbits every week on Twitter and Instagram.
+> I share JS, HTML, CSS tidbits every week!
 
 Twitter: [@samantha_ming](https://twitter.com/samantha_ming)  
-Instagram: [@samanthaming](https://www.instagram.com/SamanthaMing/)
+Instagram: [@samanthaming](https://www.instagram.com/SamanthaMing/)  
+Facebook: [@hi.samanthaming](https://www.facebook.com/hi.samanthaming/)  
+Medium: [@samanthaming](https://medium.com/@samanthaming)
 
 ## 💖 Download & Share 
 

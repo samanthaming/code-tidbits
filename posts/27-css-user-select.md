@@ -2,7 +2,7 @@
 
 Control your Text Selection with CSS 🎉
 
-It’s been awhile since my last CSS tidbit, so here it is 😄 You can use `user-select` to disable text selection (user-select: none). Or you can make it super simple for user to select the text with just one click (user-select: all). This is useful if you’re trying to create a easy text copy & paste experience 👍
+It’s been awhile since my last CSS tidbit, so here it is 😄 You can use `user-select` to disable text selection (user-select: none). Or you can make it super simple for user to select the text with just one click (user-select: all). This is useful if you’re trying to create an easy text copy & paste experience 👍
 
 ```css
 /* Select all text with just ONE click */
@@ -10,11 +10,13 @@ p {
   user-select: all;
 }
 
-/* Disable Text Selection */
+/* Disable text selection */
 p {
   user-select: none;
 }
 ```
+
+### Vendor Prefixes
 
 Don't forget your vendor prefixes:
 
@@ -45,4 +47,3 @@ _Thanks: [CJ J](https://www.linkedin.com/in/~cj-johnson)._
 
 - [MDN Web Docs: user-select](https://developer.mozilla.org/en-US/docs/Web/CSS/user-select)
 - [CSS Tricks: user-select](https://css-tricks.com/almanac/properties/u/user-select/)
-
