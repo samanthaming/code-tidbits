@@ -17,9 +17,9 @@ word.includes('sun'); // true
 Note the comparison is case-sensitive.
 
 ```javascript
-'Sunny'.includes('SUN'); // false
+'sunny'.includes('SUN'); // false
 
-'Sunny'.includes('Sun'); // false
+'sunny'.includes('Sun'); // false
 ```
 
 ## Array `includes()`
@@ -44,6 +44,12 @@ _[@__offblack](https://www.instagram.com/__offblack/):_ When we want to check if
 const span = document.querySelector('span');
 document.querySelector('div').contains(span);
 ```
+
+### Performance Test: `indexOf` vs `includes` 
+
+Thanks Filip for creating these test cases. If you're interested in knowing the speed test for how these methods fair in different browser, check out the link.
+
+[https://jsperf.com/unggzpaz](https://jsperf.com/unggzpaz)
 
 ## Resources
 
