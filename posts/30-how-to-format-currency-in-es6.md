@@ -107,7 +107,7 @@ new Intl.NumberFormat('en-CAD', { currency: 'CAD'
 }).format(money); // 'CA$ 100.00'
 
 new Intl.NumberFormat('en-CAD', { currency: 'CAD' 
-  style: 'perceny',
+  style: 'percent',
 }).format(money); // '10,000%'
 ```
 
