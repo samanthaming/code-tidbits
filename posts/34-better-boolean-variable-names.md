@@ -57,6 +57,37 @@ _[@tirpus_hahs](https://www.instagram.com/tirpus_hahs/):_ It is very important t
 
 _[@__offblackYeah](https://www.instagram.com/__offblackYeah/):_ my booleans go to the level of "isAnimatedWhenNotInViewport", "isScrollPositionGreaterThanTolerance" lol
 
+_[@masonhale](https://twitter.com/masonhale/status/1044000126577061888):_ Good suggestion. I also use ‘do’ as a prefix for Boolean settings/preferences as in `doSendReminder` or `doShowDetails`
+
+_[@ben336](https://twitter.com/ben336/status/1043991772974764035):_ This is good advice.  Also avoid negative variable names like isNotLoaded.  The positive forms are almost always clearer
+
+_[@sunnysinghio](https://twitter.com/sunnysinghio/status/1043909809085526021):_ What do you think about `handleValidateForm` considering it's an event handler? It's a more common practice that I've seen, albeit longer than `did`.
+
+_[@styfle](https://twitter.com/styfle/status/1043970833838936064):_ I use handleClick for the function that will handle it and onClick for the property name which typically just passes it through
+
+```javascript
+<Form
+  url="example.example/post"
+  onClick={handleClick}
+/>
+```
+
+<br>
+
+_[@maxstalker](https://twitter.com/MaxStalker/status/1045058156609589248):_ What are your thoughts on adjectives
+
+```javascript
+const sortable = true // instead of canBeStorted
+const hidden = true // instead os ifShown
+```
+
+_[youthoverturn](https://twitter.com/youthoverturn/status/1044485307775705093):_ 
+
+```
+is/has + noun
+enable/disable + verb
+```
+
 ## Resources
 
 - [Be Expressive: How to Give Your Variables Better Names](https://spin.atomicobject.com/2017/11/01/good-variable-names/)
