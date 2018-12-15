@@ -15,7 +15,9 @@ Medium: [@samanthaming](https://medium.com/@samanthaming)
 
 ## 💖 Download & Share 
 
-Absolutely! You are more than welcome to download and share my code tibits. If you've gotten any value from my content and would like to help me reach more people, I'd really appreciate it if you could attribute my Twitter (@samantha_ming) and Instagram (@samanthaming) with your share! 
+Absolutely! You are more than welcome to download and share my code tibits. If you've gotten any value from my content and would like to help me reach more people, please do share!
+
+One thing that I kindly ask is that you don't edit the images or crop my name out. You don't need to give me attribution, but please leave the images intact. Thank you for choosing to do the right thing 😇  
 
 ## 🔥 My Posts
 
