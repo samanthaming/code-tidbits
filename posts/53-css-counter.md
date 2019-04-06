@@ -262,7 +262,7 @@ h3::before {
 You can also set a nested counter. Instead of using `counter`, you use the plural form `counters`. The `counters` accept an additional argument:
 
 ```
-counter(<counter name>, <string>, <counter list style>)
+counters(<counter name>, <string>, <counter list style>)
 ```
 
 The string argument is a string separator that you use to indicated how you want to separate the list item for nested counters.
