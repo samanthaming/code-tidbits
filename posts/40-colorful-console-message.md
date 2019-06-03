@@ -100,6 +100,10 @@ console.log('\x1b[33m%s\x1b[0m', 'yellow' ); // Yellow
 _Thanks [@danieldeepak7](https://www.instagram.com/danieldeepak7/)_
 
 
+### Community Feedback
+
+_[@thecodegoddess](https://www.instagram.com/thecodegoddess/):_ I love this especially for projects that have a ton of logging from third party apps. My logs will get buried. I even added a snippet to my IDE so I can easily stick this in. My go to CSS debugging color? Deeppink.
+
 ## Resources
 
 - [MDN Web Docs - Console Web APIs](https://developer.mozilla.org/en-US/docs/Web/API/console)

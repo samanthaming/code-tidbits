@@ -58,11 +58,11 @@ const sheeps2 = [...sheeps];
 // Let's change our sheeps2 array
 sheeps2.push('🐺');
 
-console.log(sheeps);
+console.log(sheeps2);
 // [ '🐑', '🐑', '🐺' ]
 
 // ✅ Yay, our original sheeps is not affected!
-console.log(sheeps2);
+console.log(sheeps);
 // [ '🐑', '🐑' ]
 ```
 
@@ -101,7 +101,7 @@ cloneNums[0][0] = '👻';
 
 console.log(cloneNums);
 // [ [ '👻', 2 ], [ 10 ], [ 300 ] ]
-
+ 
 // NOOooo, the original is also affected
 console.log(nums);
 // [ [ '👻', 2 ], [ 10 ], [ 300 ] ]

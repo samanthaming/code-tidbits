@@ -11,7 +11,7 @@ Hope you've been enjoying the code tidbits I've been posting on social media! He
 Twitter: [@samantha_ming](https://twitter.com/samantha_ming)  
 Instagram: [@samanthaming](https://www.instagram.com/SamanthaMing/)  
 Facebook: [@hi.samanthaming](https://www.facebook.com/hi.samanthaming/)  
-Medium: [@samanthaming](https://medium.com/@samanthaming)
+Medium: [@samanthaming](https://medium.com/@samanthaming)  
 Dev.to: [@samanthaming](https://dev.to/samanthaming)
 
 ## 💖 Download & Share 

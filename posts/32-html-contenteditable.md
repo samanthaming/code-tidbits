@@ -49,6 +49,11 @@ content.addEventListener('input', function(event) {
 })
 ```
 
+### Rich-Text Editing with `contenteditable`
+
+A great use case is to use the property to turn your read-only HTML element into a rich text editor. This allows your user to read the content and edit as they please. Pretty neat 👍
+
+
 ## Resources
 
 - [MDN Web Docs: contenteditable](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/contentEditable)
@@ -57,3 +62,4 @@ content.addEventListener('input', function(event) {
 - [Create an Inline Text Editor with the contenteditable Attribute](https://code.tutsplus.com/tutorials/create-an-inline-text-editor-with-the-contenteditable-attribute--cms-25655)
 - [MDN Web Docs: input event](https://developer.mozilla.org/en-US/docs/Web/Events/input)
 - [Getting plain text from user input on a contenteditable element](https://medium.com/@albertogasparin/getting-plain-text-from-user-input-on-a-contenteditable-element-b711aba2cb36)
+- [Team Treehouse: Native Rich-Text Editing with the contenteditable Attribute](https://blog.teamtreehouse.com/native-rich-text-editing-with-the-contenteditable-attribute)

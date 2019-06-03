@@ -93,6 +93,9 @@ _Cole Turner:_ Worth noting that objects don’t guarantee sort order, and strin
 
 _Thanks: [@coleturner](https://twitter.com/coleturner/status/1041052858890706944)_
 
+_blnkdotspace:_ Lodash is considerably faster. Because lodash will quit soon as it reaches the first difference, but stringify goes right till the end unnecessarily. If you have small arrays it's okay but for my personal use cases with more than 1000 events/products in a list I wouldn't ever use Stringify.
+
+_Thanks: [@blnkdotspace](https://www.instagram.com/blnkdotspace/)_
 
 ## Resources
 

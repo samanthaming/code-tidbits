@@ -37,6 +37,16 @@ This feature is not supported by all browsers (cough cough IE). So if there is a
 
 [Can I Use: Download attribute](https://caniuse.com/#feat=download)
 
+## What's the use case for passing a new filename?
+
+Question: What would be use case for this? Isn't it logical to name your file how you want it to be downloaded?
+
+My response: Yes, that would be ideal. But sometimes you might have a custom file naming convention you need to follow which might not makes sense for the user. So being able to pass in a custom file name can be useful 👍
+
+- _[@dj_yanic](https://www.instagram.com/dj_yanic/):_ good use case: I keep track of my resume version number, but the recruiter that download it from my website doesn’t need to know what version it is.
+
+- _[@build.script.log](https://www.instagram.com/build.script.log/):_ also you could programmatically change the file name, to included the date or user name for example. Neat tip!
+
 ## Community Feedback
 
 - _[@vikneshwaran_jk](https://www.instagram.com/vikneshwaran_jk/):_ I have used this download attribute in my personal portfolio website to make my resume as downloadable(pdf). Simply powerful👌

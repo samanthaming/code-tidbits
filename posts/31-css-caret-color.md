@@ -70,6 +70,10 @@ This feature is not fully supported by all browsers. So make sure you check to s
 
 [Can I Use: caret-color](https://caniuse.com/#search=caret-color)
 
+## Community Feedback
+
+_[@aschmelyun](https://twitter.com/aschmelyun/status/1076658692370718720):_ This would be a great (super subtle) addition if you're live-checking for password length or valid username format, style the cursor red to match the input border/label color/etc.
+
 ## Resources
 
 - [MDN Web Docs: caret-color](https://developer.mozilla.org/en-US/docs/Web/CSS/caret-color)
