@@ -4,7 +4,7 @@ Hello and Welcome 😀
 
 Hope you've been enjoying the code tidbits I've been posting on social media! Here you will find the actual code, description, and any resources that I used to create them.
 
-## Say Hello 👋 
+## Say Hello 👋
 
 > I share JS, HTML, CSS tidbits every week!
 
@@ -14,7 +14,7 @@ Facebook: [@hi.samanthaming](https://www.facebook.com/hi.samanthaming/)
 Medium: [@samanthaming](https://medium.com/@samanthaming)  
 Dev.to: [@samanthaming](https://dev.to/samanthaming)
 
-## 💖 Download & Share 
+## 💖 Download & Share
 
 Absolutely! You are more than welcome to download and share my code tibits. If you've gotten any value from my content and would like to help me reach more people, please do share!
 
@@ -34,6 +34,6 @@ Yes! Anyone is welcome to contribute to the quality of this content. Please feel
 
 All the markdown files follow this [template](MARKDOWN_TEMPLATE.md). Here is a [sample post](posts/13-skip-values-in-destructuring.md) that showcases this.
 
-## 👩🏻‍⚖️ Note 
+## 👩🏻‍⚖️ Note
 
 I will be using the content of this repo for my upcoming podcast and maybe other publications. So, if you do contribute content, please be aware that you agree that you're giving me a non-exclusive license to use this content as I deem appropriate. After doing a podcast episode on law and legal matters, I thought it's important that I include this section. Thanks for understanding!
