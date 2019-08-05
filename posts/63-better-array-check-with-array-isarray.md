@@ -118,6 +118,21 @@ Array.isArray(marsArray)
 
 https://jsfiddle.net/botol/ryu324gw
 
+- Cale Shapera:
+
+- _[@caleshapera](https://medium.com/@caleshapera/useful-131bc462ae9f):_ I like to use isArray along with array.length to error check whether I should process a variable.
+
+```javascript
+if (!Array.isArray(array) || !array.length) {
+  // array does not exist, is not an array, or is empty
+  // ⇒ do not attempt to process array
+} else {
+  // ⇒ process array
+}
+```
+
+- Russel P: It's worth noting that `Array.isArray(books)` is the ES5 equivalent to `books && typeof books === 'object' && books.constructor === Array`
+
 ## Resources
 
 - [MDN Web Docs: Array.isArray()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/isArray)
