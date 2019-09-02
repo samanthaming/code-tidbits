@@ -41,7 +41,7 @@ twoLevelsDeep.flat()
 // [1, [2, 2], 1]
 
 // depth = 2
-twoLevelsDeep.flat()
+twoLevelsDeep.flat(2)
 // [1, 2, 2, 1]
 ```
 

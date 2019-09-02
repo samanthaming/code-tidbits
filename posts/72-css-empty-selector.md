@@ -64,6 +64,17 @@ Having children element also counts as not empty
 <p><span></span></p>
 ```
 
+### Whitespace in Future Spec
+
+The good news is -- in [Selectors Level 4](https://drafts.csswg.org/selectors-4/#the-empty-pseudo), whitespace would be considered empty! This will make it similar to act like `:-moz-only-whitespace`. In other words, this would considered empty:
+
+```html
+<!-- Considered Empty in CSS Selectors Level 4 -->
+<p> </p>
+```
+
+⚠️ BUT, don't do this yet. Currently no browser supports this.
+
 ## Examples using `:empty`
 
 Okay, let's take a look at some real-life examples of using `:empty`.
@@ -146,7 +157,7 @@ Support on this is actually really good. It supports all the way to Internet Exp
 
 - [Browser Support: empty](https://developer.mozilla.org/en-US/docs/Web/CSS/:empty#Browser_compatibility)
 
-## Community Input
+## Community Examples
 
 I discovered `:empty` when I was trying to style empty error messages in a form. `<div class="error"></div>`. No JS required anymore, I can use pure CSS 👍
 
@@ -162,7 +173,26 @@ I discovered `:empty` when I was trying to style empty error messages in a form.
 
 - _[@stephenjbell](https://twitter.com/stephenjbell/status/1158072968955813890?s=20):_ `li:empty { visibility:hidden; }` Let an empty list item act as kind of a paragraph break (no bullet) in the middle of a list.
 
+- _[@jlabs](https://dev.to/jlabs/comment/dmpn):_ I've used this recently within ul that show's a message when the ul has no children - the list was populated via JS.
+
+## Community Input
+
 - _[@bourhaouta](https://twitter.com/bourhaouta/status/1157750024664702976?s=20):_ One more thing about :empty it doesn't select elements that contain whitespace, in the other side we have :blank but it's not well supported yet 😔
+
+- _[@link2twenty](https://dev.to/link2twenty/comment/dmoj):_ I love seeing little known features like this getting some spotlight! It's probably worth noting when the level 4 selectors roll out white space will be included as empty 🙂
+
+- _[@okumurakengo](https://dev.to/okumurakengo/comment/e1c3):_ also :not and :empty can be used to hide empty state 😀
+
+```html
+<style>
+.alert:not(:empty) {
+  background: pink;
+  padding: 10px;
+}
+</style>
+<div class="alert"></div>
+<div class="alert">Alert Message</div>
+```
 
 ## Resources
 
