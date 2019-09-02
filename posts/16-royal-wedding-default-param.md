@@ -25,7 +25,7 @@ function marryMe(yes = 'I will', prince = 'Harry') {
 }
 
 marryMe();
-// yes
+// I will
 // Harry
 ``` 
 
