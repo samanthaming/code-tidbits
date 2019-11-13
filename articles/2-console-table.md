@@ -1,6 +1,6 @@
 # Use `console.table` to display your data
 
-This is a cool way to display your data in your browser dev tools. Works great with Array and Objects. Instead of console.log, try `console.table` next time ⭐️ 
+This is a cool way to display your data in your browser dev tools. Works great with Array and Objects. Instead of `console.log`, try `console.table` next time ⭐️ 
 
 ```javascript
 const amazingAthletes = [
@@ -24,7 +24,9 @@ const amazingAthletes = [
     lastName: "Wickenheiser",
     sport: "🏒"
   }
-]
+];
 
 console.table(amazingAthletes);
 ```
+
+![Exemplo 01](/images/02-console.table-example-01-result-eng.png)
