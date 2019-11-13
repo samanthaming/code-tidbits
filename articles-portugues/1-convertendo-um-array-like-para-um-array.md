@@ -1,7 +1,7 @@
 # Convertendo um Array-Like para um Array 
 
 
-É incrível aprender algo novo no custo de ES6 do [@wesbos](https://twitter.com/wesbos) 🔥
+É incrível aprender algo novo no curso de ES6 do [@wesbos](https://twitter.com/wesbos) 🔥
 
 
 ```javascript
