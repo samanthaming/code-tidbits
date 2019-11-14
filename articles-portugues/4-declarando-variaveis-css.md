@@ -1,4 +1,4 @@
-# Declaring CSS Variables
+# Declarando Variáveis CSS
 
 Supere o Sass, nós temos variáveis CSS!
 
