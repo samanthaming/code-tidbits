@@ -1,6 +1,6 @@
 Translated by [@Mathias54](https://github.com/Mathias54)
 
-# Convertendo um Array-Like para um Array 
+# Convertendo um Array-Like para um Array
 
 É incrível aprender algo novo no curso de ES6 do [@wesbos](https://twitter.com/wesbos) 🔥
 
