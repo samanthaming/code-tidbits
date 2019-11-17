@@ -1,6 +1,6 @@
 # Convert Array-like to True Array
 
-This is cool! Learning something new @wesbos ES6 course 🔥
+This is cool! Learning something new [@wesbos](https://twitter.com/wesbos) ES6 course 🔥
 
 
 ```javascript
