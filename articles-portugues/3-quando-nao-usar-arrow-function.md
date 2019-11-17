@@ -1,6 +1,9 @@
+Translated by [@Mathias54](https://github.com/Mathias54)
+
 # Quando Não Utilizar Arrow Functions
 
 Arrow Functions são incríveis, porém não devem ser usados em todos as situações. Deve-se evitá-los em objetos porque o 'this' sempre estará referênciado o scopo pai -- que é o 'window', nesse caso.
+
 ```javascript
 const hamburger = {
     type: '🍔',
