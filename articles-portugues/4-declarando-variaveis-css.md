@@ -1,3 +1,5 @@
+Translated by [@Mathias54](https://github.com/Mathias54)
+
 # Declarando Variáveis CSS
 
 Supere o Sass, nós temos variáveis CSS!
