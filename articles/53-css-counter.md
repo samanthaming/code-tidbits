@@ -1,4 +1,4 @@
-# A Guide to CSS `counter` 
+# A Guide to CSS `counter`
 
 Use the "counter" property to turn any element into a numbered list. Similar to how the ordered list tag works `<ol>`. Very useful if you're creating a documentation site where you need to automatically number the headings or create a table of contents 👍
 
@@ -231,7 +231,7 @@ div {
 h2::before {
   counter-increment: counter-one;
   content: counter(counter-one) ": ";
-} 
+}
 
 h3::before {
   counter-increment: counter-two;
@@ -243,7 +243,7 @@ h3::before {
 <div>
   <h2>one</h2>
   <h2>one</h2>
-  
+
   <h3>two</h3>
   <h3>two</h3>
 </div>
@@ -262,7 +262,7 @@ h3::before {
 You can also set a nested counter. Instead of using `counter`, you use the plural form `counters`. The `counters` accept an additional argument:
 
 ```
-counter(<counter name>, <string>, <counter list style>)
+counters(<counter name>, <string>, <counter list style>)
 ```
 
 The string argument is a string separator that you use to indicated how you want to separate the list item for nested counters.
@@ -283,7 +283,7 @@ div {
 h2::before {
   counter-increment: multi-counters;
   content: counters(multi-counters, ".") ": ";
-} 
+}
 ```
 
 ```html
@@ -329,7 +329,7 @@ Here's an example where I would use CSS `counter`. In this instance, I have a do
 <article>
   <h2>What is Vue.js?</h2>
   <p>Vue is a progressive framework for building user interfaces.</p>
-  
+
   <h2>Getting Started</h2>
   <p>Visit Vuejs.org to learn more!</p>
 </article>
