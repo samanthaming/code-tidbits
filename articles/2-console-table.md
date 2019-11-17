@@ -29,4 +29,4 @@ const amazingAthletes = [
 console.table(amazingAthletes);
 ```
 
-![Exemplo 01](/images/02-console.table-example-01-result-eng.png)
+![Console Table](/images/2-console-table.png)
