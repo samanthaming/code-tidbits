@@ -8,10 +8,10 @@ Hope you've been enjoying the code tidbits I've been posting on social media! He
 
 > I share JS, HTML, CSS tidbits every week!
 
-Twitter: [@samantha_ming](https://twitter.com/samantha_ming)  
-Instagram: [@samanthaming](https://www.instagram.com/SamanthaMing/)  
-Facebook: [@hi.samanthaming](https://www.facebook.com/hi.samanthaming/)  
-Medium: [@samanthaming](https://medium.com/@samanthaming)  
+Twitter: [@samantha_ming](https://twitter.com/samantha_ming)
+Instagram: [@samanthaming](https://www.instagram.com/SamanthaMing/)
+Facebook: [@hi.samanthaming](https://www.facebook.com/hi.samanthaming/)
+Medium: [@samanthaming](https://medium.com/@samanthaming)
 Dev.to: [@samanthaming](https://dev.to/samanthaming)
 
 Official: [www.samanthaming.com](https://www.samanthaming.com/)
@@ -34,9 +34,9 @@ Yes! Anyone is welcome to contribute to the quality of this content. Please feel
 
 ## 📚 Translations
 
-Yes! If you'd like to translate my articles, please do it! You can also add your translated copy to this repo, simply create a Pull Request.
+Yes! If you'd like to translate my articles, please do it! You can also add your translated copy to this repo, simply create a Pull Request. Here's the [translation contribution guide](translation_contribution_guide.md)
 
-I hope to at least have a Chinese version out soon. So stay tuned...
+- [Português](/articles-portugues/README.md)
 
 ## ⚖ Note
 
