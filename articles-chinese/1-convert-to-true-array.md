@@ -1,3 +1,5 @@
+Translated by [@baooab](https://github.com/baooab)
+
 # 将类数组对象转换成数组
 
 很酷！这是我从 [@wesbos](https://twitter.com/wesbos) 的 ES6 课程里新学到的  🔥
