@@ -8,7 +8,7 @@ Or use it like Facebook to tell people to stay away. Next time you visit their s
 
 ```javascript
 // Put this in your browser console
-console.log('%cHello', 'color: green; background: yellow: font-size: 30px');
+console.log('%cHello', 'color: green; background: yellow; font-size: 30px');
 ```
 
 ### What is `%c`
