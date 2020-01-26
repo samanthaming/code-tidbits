@@ -1,3 +1,7 @@
+Note: This repo will no longer be maintained in favor of the new repo!
+
+https://github.com/samanthaming/samanthaming.com
+
 # Code Tidbits
 
 Hello and Welcome 😀
