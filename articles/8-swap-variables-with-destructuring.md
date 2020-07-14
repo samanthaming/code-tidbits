@@ -11,6 +11,6 @@ let nominee = 'Moonlight';
 
 [oscar, nominee] = [nominee, oscar];
 
-console.log(oscar) // Moonlight
-console.log(nominee) // La La Land
+console.log(oscar); // Moonlight
+console.log(nominee); // La La Land
 ```

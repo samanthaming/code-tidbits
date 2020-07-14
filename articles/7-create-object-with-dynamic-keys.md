@@ -14,6 +14,6 @@ lock[key] = 'unlock';
 
 // New Way
 var lock = {
-  [key]: 'unlock';
+  [key]: 'unlock',
 }
 ```
